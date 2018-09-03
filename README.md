@@ -1,8 +1,10 @@
 # Animel is Responsive SPA sample
-This repository is "Responsive SPA sample" using below:
+Animel is using React, Redux, Material-UI, etc...
 
 スマホ・PCに対応した、シングルページアプリケーション（SPA）です。
-ボタンを押下すると[ShangriLa Anime API](https://qiita.com/AKB428/items/64938febfd4dcf6ea698)を叩いて今期のアニメ情報を取得してきて表示するというシンプルなアプリ。昨今はモバイルファーストの世の中なのでモバイルを意識しつつもPCで表示できるようにレスポンシブです。
+ボタンを押下すると[ShangriLa Anime API](https://qiita.com/AKB428/items/64938febfd4dcf6ea698)を叩いて今期のアニメ情報を取得してきて表示するというシンプルなアプリ。昨今はモバイルファーストの世の中なのでモバイルを意識しつつもPCで表示できるようにレスポンシブなアプリにしています。
+
+作り方などは[こちら](https://blog.f-arts.work/archives/791)にまとめておりますのでご参考下さい。
 
 ## ソフトウェア構成
 ```
