@@ -44,3 +44,8 @@ react-adsense：0.0.6（Google Adsense）
 改善案とかリファクタリングとかしてくれたらissueとかプルリクとか投げてくれてもいいけどリプなどで是非教えて欲しい…
 
 [@y_kawase](https://twitter.com/y_kawase)
+
+# License
+MIT License
+
+Copyright (c) 2018 Yuji Kawase
