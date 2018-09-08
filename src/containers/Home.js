@@ -83,7 +83,7 @@ class Home extends React.Component {
     // Cours入力
     const cours = [];
     const cours_detail = ['1期（冬期）', '2期（春期）', '3期（夏期）', '4期（秋期）'];
-    const cours_detail_month = ['冬：1～3月', '春：4～6月', '夏：7～9月', '冬：10～12月'];
+    const cours_detail_month = ['冬：1～3月', '春：4～6月', '夏：7～9月', '秋：10～12月'];
     for (var i = 0; i < cours_detail.length; i++) {
       cours.push(<MenuItem key={i+1} value={i+1}>{cours_detail[i]}</MenuItem>);
     }
